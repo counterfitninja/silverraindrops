@@ -9,19 +9,5 @@
         "name": "Sue Bird"
     },
     "items": [
-        {
-            "id": "https://www.silverraindrops.co.uk/hello.html",
-            "url": "https://www.silverraindrops.co.uk/hello.html",
-            "title": "Hello ",
-            "summary": "World",
-            "content_html": "<p>World</p>",
-            "author": {
-                "name": "Sue Bird"
-            },
-            "tags": [
-            ],
-            "date_published": "2024-05-19T19:54:39+01:00",
-            "date_modified": "2024-05-19T19:54:39+01:00"
-        }
     ]
 }

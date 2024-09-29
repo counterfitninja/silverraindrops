@@ -3,30 +3,10 @@
     <title>silverraindrops</title>
     <link href="https://www.silverraindrops.co.uk/feed.xml" rel="self" />
     <link href="https://www.silverraindrops.co.uk" />
-    <updated>2024-05-19T19:54:39+01:00</updated>
+    <updated>1970-01-01T01:00:00+01:00</updated>
     <author>
         <name>Sue Bird</name>
     </author>
     <id>https://www.silverraindrops.co.uk</id>
 
-    <entry>
-        <title>Hello </title>
-        <author>
-            <name>Sue Bird</name>
-        </author>
-        <link href="https://www.silverraindrops.co.uk/hello.html"/>
-        <id>https://www.silverraindrops.co.uk/hello.html</id>
-
-        <updated>2024-05-19T19:54:39+01:00</updated>
-            <summary>
-                <![CDATA[
-                    World
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>World</p>
-            ]]>
-        </content>
-    </entry>
 </feed>
